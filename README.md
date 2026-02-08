@@ -27,7 +27,7 @@ For full customization, install the [Style Settings](https://github.com/mgmeyers
 
 ## Development
 
-See [ARCHITECTURE.md](docs/ARCHITECTURE.md) for the full audit and refactoring plan.
+See [claude-refactor.md](docs/claude-refactor.md) for the full audit and refactoring plan.
 
 ## Credits
 
